@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1674633200 source:d:\code\cse 4104 - computer graphics sessional\graphics 1\main.cpp
+	<iostream>
+	<stdio.h>
+	<graphics.h>
+
