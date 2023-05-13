@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1681281105 source:d:\code\cse 4104 - computer graphics sessional\rotation triangle\main.cpp
+	<iostream>
+	<conio.h>
+	<graphics.h>
+	<process.h>
+	<math.h>
+	<stdlib.h>
+
+1683093151 source:d:\code\cse 4104 - computer graphics sessional\rotation triangle\scaling.cpp
+	<iostream>
+	<conio.h>
+	<graphics.h>
+	<stdlib.h>
+

@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1681281556 source:d:\code\cse 4104 - computer graphics sessional\scaling\main.cpp
+	<iostream>
+	<conio.h>
+	<graphics.h>
+	<stdlib.h>
+
